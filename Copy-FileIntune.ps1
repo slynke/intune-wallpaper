@@ -1,5 +1,5 @@
 $LogFile = "$env:ProgramData\Microsoft\IntuneManagementExtension\Logs\Wallpaper.log"
-$TargetFolder = "C:\Tecta\wallpaper"
+$TargetFolder = "C:\resources\wallpaper"
 $SourceFolder = "$PSScriptRoot\wall"
 
 # Delete any existing logfile if it exists
