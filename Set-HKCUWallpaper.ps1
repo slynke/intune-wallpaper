@@ -2,7 +2,7 @@
 $RegistryPath = "HKCU\Control Panel\Desktop"
 $WallpaperValue = "Wallpaper"
 $WallpaperStyleValue = "WallpaperStyle"
-$WallpaperFullPath = "C:\Tecta\wallpaper\valley.jpg"
+$WallpaperFullPath = "C:\resources\wallpaper\background.jpg"
 $WallpaperStyle = 10  # 2 = Stretched, 0 = Centered, 10 = Fill
 $LogFilePath = "$env:ProgramData\Microsoft\IntuneManagementExtension\Logs\wallpaper2.log"
 
