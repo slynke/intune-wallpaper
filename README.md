@@ -6,6 +6,3 @@ This project includes two scripts designed to set the desktop wallpaper on Windo
 
 The app's detection logic ensures it runs only once, allowing end users to change the wallpaper later if desired.
 
-
-
-I'll be providing detailed app and Intune configuration at a later time.
