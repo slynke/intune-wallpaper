@@ -1,4 +1,5 @@
 $LogFile = "$env:ProgramData\Microsoft\IntuneManagementExtension\Logs\Wallpaper.log"
+# Update TargetFolder to your preferred path 
 $TargetFolder = "C:\resources\wallpaper"
 $SourceFolder = "$PSScriptRoot\wall"
 
