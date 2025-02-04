@@ -1,6 +1,7 @@
 $LogFile = "$env:ProgramData\Microsoft\IntuneManagementExtension\Logs\Wallpaper.log"
 # Update TargetFolder to your preferred path 
 $TargetFolder = "C:\resources\wallpaper"
+# Save a wallpaper image named background.jpg inside the wall folder
 $SourceFolder = "$PSScriptRoot\wall"
 
 # Delete any existing logfile if it exists
